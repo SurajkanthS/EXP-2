@@ -51,10 +51,10 @@ Procedure for Load test:
 
 Calculation: 
 Magnetisation characteristics of DC shunt generator:
-<img width="757" height="847" alt="image" src="https://github.com/user-attachments/assets/4dcbe0a9-9ca9-49a9-a590-45dab3abcc2f" />
+<img width="401" height="390" alt="image" src="https://github.com/user-attachments/assets/4dcbe0a9-9ca9-49a9-a590-45dab3abcc2f" />
 
 Load characteristics of DC Shunt Generator:
-<img width="762" height="660" alt="image" src="https://github.com/user-attachments/assets/9a121233-e7c3-4599-8b33-9a7b827e7cf4" />
+<img width="401" height="390" alt="image" src="https://github.com/user-attachments/assets/9a121233-e7c3-4599-8b33-9a7b827e7cf4" />
 
 
 
