@@ -47,12 +47,7 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test:
 
-<img width="401" height="390" alt="image" src="https://github.com/user-attachments/assets/5efad18a-2c74-4de1-886d-fde57e5e69fb" />
-
-Tabulation for Load Test:
-<img width="1237" height="1271" alt="image" src="https://github.com/user-attachments/assets/fc116805-2a9d-4651-9d1c-5bba86e76826" />
 
 Calculation: 
 Magnetisation characteristics of DC shunt generator:
@@ -75,5 +70,12 @@ Load Characteristics:
 <img width="1665" height="755" alt="image" src="https://github.com/user-attachments/assets/d18e80fe-23b3-4b68-a82e-ba7a5343b8a4" />
 <img width="1652" height="517" alt="image" src="https://github.com/user-attachments/assets/62c443c4-1ebe-4b2a-a9c2-ca88d18e14bf" />
 
+
+Tabulation for Open Circuit Test:
+
+<img width="401" height="390" alt="image" src="https://github.com/user-attachments/assets/5efad18a-2c74-4de1-886d-fde57e5e69fb" />
+
+Tabulation for Load Test:
+<img width="1237" height="1271" alt="image" src="https://github.com/user-attachments/assets/fc116805-2a9d-4651-9d1c-5bba86e76826" />
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
