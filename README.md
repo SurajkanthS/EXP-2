@@ -55,6 +55,12 @@ Tabulation for Load Test:
 <img width="1237" height="1271" alt="image" src="https://github.com/user-attachments/assets/fc116805-2a9d-4651-9d1c-5bba86e76826" />
 
 Calculation: 
+Magnetisation characteristics of DC shunt generator:
+<img width="757" height="847" alt="image" src="https://github.com/user-attachments/assets/4dcbe0a9-9ca9-49a9-a590-45dab3abcc2f" />
+
+Load characteristics of DC Shunt Generator:
+<img width="762" height="660" alt="image" src="https://github.com/user-attachments/assets/9a121233-e7c3-4599-8b33-9a7b827e7cf4" />
+
 
 
 Model graph:
